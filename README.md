@@ -1,2 +1,2 @@
-# galaxy-crisol25
-Website for the galaxy-crisol25 conference
+# cluster5
+Website for the cluster5 conference
